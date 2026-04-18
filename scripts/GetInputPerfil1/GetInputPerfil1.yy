@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GetInputPerfil1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GetInputPerfil1",
+  "parent":{
+    "name":"System",
+    "path":"folders/Scripts/System.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

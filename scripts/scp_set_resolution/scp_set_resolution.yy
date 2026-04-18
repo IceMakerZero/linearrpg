@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scp_set_resolution",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scp_set_resolution",
+  "parent":{
+    "name":"System",
+    "path":"folders/Scripts/System.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,18 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"custom_player",
+  "%Name":"obj_haircolor_right_button",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"custom_player",
+  "name":"obj_haircolor_right_button",
   "overriddenProperties":[],
   "parent":{
     "name":"Customization",
     "path":"folders/Objects/Customization.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_custom_change_button_parent",
+    "path":"objects/obj_custom_change_button_parent/obj_custom_change_button_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"custom_player_body",
-    "path":"sprites/custom_player_body/custom_player_body.yy",
+    "name":"spr_custom_change_button",
+    "path":"sprites/spr_custom_change_button/spr_custom_change_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,

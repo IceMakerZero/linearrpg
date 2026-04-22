@@ -8,9 +8,9 @@ _view_height	= _screen_height/6;
 
 _window_scale = 6;
 
-_view_zoom = 1.2;
-_cam_view_width = _view_width * _view_zoom;
-_cam_view_height = _view_height * _view_zoom;
+_view_zoom_out = 1.0;
+_cam_view_width = _view_width * _view_zoom_out;
+_cam_view_height = _view_height * _view_zoom_out;
 
 shake_length = 0;
 shake_time = 0;

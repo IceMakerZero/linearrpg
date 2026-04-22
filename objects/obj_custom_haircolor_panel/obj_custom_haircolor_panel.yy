@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"custom_player",
+  "%Name":"obj_custom_haircolor_panel",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"custom_player",
+  "name":"obj_custom_haircolor_panel",
   "overriddenProperties":[],
   "parent":{
     "name":"Customization",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"custom_player_body",
-    "path":"sprites/custom_player_body/custom_player_body.yy",
+    "name":"spr_custom_item_panel",
+    "path":"sprites/spr_custom_item_panel/spr_custom_item_panel.yy",
   },
   "spriteMaskId":null,
   "visible":true,
